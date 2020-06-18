@@ -1,0 +1,21 @@
+{
+  "name": "radius-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "radius": "latest",
+    "node-radius-client": "latest",
+    "node-radius-utils": "latest",
+    "dgram": "latest",
+    "yargs": "latest",
+    "ldapjs": "latest",
+    "json-stringify-safe": "latest"
+  }
+}
